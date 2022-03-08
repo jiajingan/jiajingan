@@ -6,7 +6,6 @@ Hi, I'm Jack -a senior Computer Science & Mathematics student at [Temple Univers
 - 🙂 Also seeking for full time software engineer job for Fall 2022
 - 📫 Feel free to reach out to me: jackie.gan@temple.edu
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiajingan&layout=compact)](https://github.com/jiajingan/github-readme-stats)
 <!--
 **jiajingan/jiajingan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,7 @@
-### Hi there 👋
+# Hi, I'm Jack -a Computer Science & Mathematics Major at [Temple University][templeWeb]
 - 🔭 I’m currently working on portfolio a new website 
 - 🌱 I’m currently learning JS, golang, firebase
+-
 - 📫 How to reach me: jackie.gan@temple.edu
 
 <!--
@@ -17,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[templeWeb]: https://www.temple.edu/

@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a new website 
-- 🌱 I’m currently learning JS, golang
+- 🔭 I’m currently working on portfolio a new website 
+- 🌱 I’m currently learning JS, golang, firebase
+- 📫 How to reach me: jackie.gan@temple.edu
 
 <!--
 **jiajingan/jiajingan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

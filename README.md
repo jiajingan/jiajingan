@@ -20,5 +20,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
+<!--
+Notes for ReadMe
+https://www.markdownguide.org/basic-syntax/
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md some might not be in there, you can paste from discord or imessage
+stats, still need to figure out how to use them
+https://github.com/anuraghazra/github-readme-stats
+https://github.com/jstrieb/github-stats
+-->

@@ -1,4 +1,4 @@
-# Hi, I'm Jack -a Computer Science & Mathematics Major at [Temple University][templeWeb]
+Hi, I'm Jack -a Computer Science & Mathematics Major at [Temple University][templeWeb]
 - 🔭 I’m currently working on portfolio a new website 
 - 🌱 I’m currently learning JS, golang, firebase
 -

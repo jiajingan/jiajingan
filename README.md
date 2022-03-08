@@ -1,8 +1,9 @@
-Hi, I'm Jack -a Computer Science & Mathematics Major at [Temple University][templeWeb]
+Hi, I'm Jack -a senior Computer Science & Mathematics student at [Temple University][templeWeb]
+
 - 🔭 I’m currently working on portfolio a new website 
 - 🌱 I’m currently learning JS, golang, firebase
--
-- 📫 How to reach me: jackie.gan@temple.edu
+- :slightly_smiling_face:
+- 📫 Feel free to reach out to me: jackie.gan@temple.edu
 
 <!--
 **jiajingan/jiajingan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

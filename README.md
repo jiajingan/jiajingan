@@ -2,7 +2,7 @@ Hi, I'm Jack -a senior Computer Science & Mathematics student at [Temple Univers
 
 - 🔭 I’m currently a Data Structures & Algorithms and Elements of Data Science TA
 - 🌱 I’m currently learning JS, golang, firebase
-- 🧑‍💻 I have experience in Java, MATLAB, Python
+- 🧑‍💻 I have experience in Python, Java, MATLAB
 - 🙂 Also seeking for software engineer internship for Spring 2023, Summer 2023
 - 📫 Feel free to reach out to me: jackie.gan@temple.edu
 

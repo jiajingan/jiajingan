@@ -5,7 +5,6 @@ Hi, I'm Jack -a senior Computer Science & Mathematics student at [Temple Univers
 - 🧑‍💻 I have experience in Python, Java, MATLAB
 - 🙂 Also seeking for software engineer Full-Time starting May 2023
 - 📫 Feel free to reach out to me: jackiegan123@outlook.com
-
 - 😬 Currently taking Machine Learning, it might have screwed up my github stats
 - 😔 also the html is from my website, I use a static site generator [Hugo](https://gohugo.io/)
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=jiajingan&layout=compact"/>

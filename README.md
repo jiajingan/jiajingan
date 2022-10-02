@@ -8,6 +8,7 @@ Hi, I'm Jack -a senior Computer Science & Mathematics student at [Temple Univers
 ---
 - 😬 Currently taking Machine Learning, it might have screwed up my github stats
 - 😔 also the html is from my website, I use a static site generator [Hugo](https://gohugo.io/)
+- 🤩 Check out my recent projects, it's pinned below 
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=jiajingan&layout=compact"/>
 
 <!--

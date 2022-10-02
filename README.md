@@ -8,7 +8,7 @@ Hi, I'm Jack -a senior Computer Science & Mathematics student at [Temple Univers
 
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=jiajingan&layout=compact"/>
 - 😬 Currently taking Machine Learning, it might have screwed up my github stats 
-- 😔 also the html is from my website, I use [Hugo](https://github.com/gohugoio/hugo)
+- 😔 also the html is from my website, I use a static site generator [[Hugo](https://github.com/gohugoio/hugo)](https://gohugo.io/)
 <!--
 **jiajingan/jiajingan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

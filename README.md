@@ -1,7 +1,7 @@
 Hi, I'm Jack -a senior Computer Science & Mathematics student at [Temple University](https://www.temple.edu/)
 
 - 🔭 I’m currently a Data Structures & Algorithms and Elements of Data Science TA
-- 🌱 I’m currently learning JS, golang, firebase
+- 🌱 I’m currently improving JS, typescript, golang
 - 🧑‍💻 I have experience in Python, Java, MATLAB
 - 🙂 Also seeking for software engineer Full-Time starting May 2023
 - 📫 Feel free to reach out to me: jackiegan123@outlook.com

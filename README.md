@@ -3,7 +3,7 @@ Hi, I'm Jack -a senior Computer Science & Mathematics student at [Temple Univers
 - 🔭 I’m currently a Data Structures & Algorithms and Elements of Data Science TA
 - 🌱 I’m currently improving JS, typescript, golang
 - 🧑‍💻 I have experience in Python, Java, MATLAB
-- 🙂 Also seeking for software engineer Full-Time starting May 2023
+- 🙂 Also seeking for software engineer internship and Full-Time positions starting May 2023
 - 📫 Feel free to reach out to me: jackiegan123@outlook.com
 ---
 - 😬 Currently taking Machine Learning, it might have screwed up my github stats

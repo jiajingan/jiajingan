@@ -1,14 +1,8 @@
-Hi, I'm Jack -a senior Computer Science & Mathematics student at [Temple University](https://www.temple.edu/)
+Hi, I'm Jack -a software developer 
 
-- 🔭 I’m currently a Data Structures & Algorithms and Elements of Data Science TA
-- 🌱 I’m currently improving JS, typescript, golang
-- 🧑‍💻 I have experience in Python, Java, MATLAB
-- 🙂 Also seeking for software engineer internship and Full-Time positions starting May 2023
+- 🔭 I’m currently exploring new langauges like typescript and golang
 - 📫 Feel free to reach out to me: jackiegan123@outlook.com
----
-- 😬 Currently taking Machine Learning, it might have screwed up my github stats
-- 😔 Also the html is from my website, I use a static site generator [Hugo](https://gohugo.io/)
-- 🤩 Check out my recent projects, it's pinned below 
+
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=jiajingan&layout=compact"/>
 
 <!--

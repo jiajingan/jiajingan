@@ -5,7 +5,7 @@ Hi, I'm Jack -a software developer
 - 📫 Feel free to reach out to me: jackiegan123@outlook.com
 
 <img src= "![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiajingan&exclude_repo=templeUniversity,jiajingan.github.io,site)"/>
-
+<img src= "[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiajingan)](https://github.com/anuraghazra/github-readme-stats)"/>
 <!--
 **jiajingan/jiajingan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

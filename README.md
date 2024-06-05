@@ -3,7 +3,7 @@ Hi, I'm Jack -a software developer
 - 🔭 I’m currently exploring new langauges like typescript and golang
 - 💬 Thinking about new project ideas
 - 📫 Feel free to reach out to me: jackiegan123@outlook.com
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiajingan&layout=compact)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiajingan&exclude_repo=templeUniversity,jiajingan.github.io,site&layout=compact)
 <!-- 
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=jiajingan&exclude_repo=templeUniversity,jiajingan.github.io,site&layout=compact"/>
 <img src= "[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiajingan&exclude_repo=templeUniversity,jiajingan.github.io,site)](https://github.com/anuraghazra/github-readme-stats)"/>

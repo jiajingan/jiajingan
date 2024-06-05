@@ -1,6 +1,7 @@
 Hi, I'm Jack -a software developer 
 
 - 🔭 I’m currently exploring new langauges like typescript and golang
+- 💬 Thinking about new project ideas
 - 📫 Feel free to reach out to me: jackiegan123@outlook.com
 
 <img src= "![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiajingan&exclude_repo=templeUniversity,jiajingan.github.io,site)"/>

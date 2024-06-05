@@ -3,7 +3,7 @@ Hi, I'm Jack -a software developer
 - 🔭 I’m currently exploring new langauges like typescript and golang
 - 📫 Feel free to reach out to me: jackiegan123@outlook.com
 
-<img src= "![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=templeUniversity,jiajingan.github.io,site)"/>
+<img src= "![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiajingan&exclude_repo=templeUniversity,jiajingan.github.io,site)"/>
 
 <!--
 **jiajingan/jiajingan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 Hi, I'm Jack -a software developer 
 
-- 🔭 I’m currently exploring new langauges like typescript and golang
+- 🔭 I’m currently exploring new langauges like typescript, ruby and golang
 - 💬 Thinking about new project ideas
 - 📫 Feel free to reach out to me: jackiegan123@outlook.com
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiajingan&&hide=jupyter%20notebook,html)

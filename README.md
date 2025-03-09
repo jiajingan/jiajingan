@@ -1,10 +1,13 @@
-Hi, I'm Jackie, a Software Engineer at JPMorgan Chase
+Hi , 
 
-- 🔭 I am currently learning golang 
-- 💬 Thinking about new project ideas
-- 📫 Feel free to reach out to me: jganengineer@gmail.com
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiajingan&&hide=jupyter%20notebook,html)
+Ny name is Jackie Gan, a Software Engineer at JPMorgan Chase. 
+
+As a kid, I always enjoyed building legos, disassembling and reassembling parts to see the pattern in things. When I became a software engineer, I realized that we can reuse patterns to solve a similar business problem. 
+
+In my day to day job, I work on building batch Python ETL pipelines and AWS infrastructure for ML. Slowly, I realized my interest aligns with backend engineering with streaming and event driven architecture. So I decided to learn golang in my free time.  
 <!-- 
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiajingan&&hide=jupyter%20notebook,html)
+
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=jiajingan&exclude_repo=templeUniversity,jiajingan.github.io,site&layout=compact"/>
 <img src= "[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiajingan&exclude_repo=templeUniversity,jiajingan.github.io,site)](https://github.com/anuraghazra/github-readme-stats)"/>
 -->
@@ -20,7 +23,7 @@ Hi, I'm Jackie, a Software Engineer at JPMorgan Chase
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png" alt="Apache Spark" title="Apache Spark"/></code>
 </div>
 
-
+- 📫 Feel free to reach out to me: jganengineer@gmail.com
 <!--
 **jiajingan/jiajingan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

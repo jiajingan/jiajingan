@@ -11,6 +11,7 @@ In my day to day job, I work on building batch Python ETL pipelines and AWS infr
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=jiajingan&exclude_repo=templeUniversity,jiajingan.github.io,site&layout=compact"/>
 <img src= "[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiajingan&exclude_repo=templeUniversity,jiajingan.github.io,site)](https://github.com/anuraghazra/github-readme-stats)"/>
 -->
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 Tech Stack - 
 <div align="center">

@@ -1,4 +1,4 @@
-Hi, I'm Jack -a software developer 
+Hi, I'm Jackie, a Software Engineer at JPMorgan Chase
 
 - 🔭 I’m currently exploring new langauges like typescript, ruby and golang
 - 💬 Thinking about new project ideas

@@ -25,7 +25,7 @@ Tech Stack -
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
 </div>
 
-- 📫 Feel free to reach out to me: jganengineer@gmail.com
+📫 Feel free to reach out to me: jganengineer@gmail.com
 <!--
 **jiajingan/jiajingan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

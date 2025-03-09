@@ -12,7 +12,7 @@ In my day to day job, I work on building batch Python ETL pipelines and AWS infr
 <img src= "[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiajingan&exclude_repo=templeUniversity,jiajingan.github.io,site)](https://github.com/anuraghazra/github-readme-stats)"/>
 -->
 
-
+Tech Stack - 
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/></code>

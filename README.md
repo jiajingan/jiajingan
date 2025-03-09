@@ -1,4 +1,4 @@
-Hi , 
+Hi there, 
 
 Ny name is Jackie Gan, a Software Engineer at JPMorgan Chase. 
 
@@ -11,6 +11,8 @@ In my day to day job, I work on building batch Python ETL pipelines and AWS infr
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=jiajingan&exclude_repo=templeUniversity,jiajingan.github.io,site&layout=compact"/>
 <img src= "[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiajingan&exclude_repo=templeUniversity,jiajingan.github.io,site)](https://github.com/anuraghazra/github-readme-stats)"/>
 -->
+
+
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>

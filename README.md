@@ -1,6 +1,6 @@
 Hi there, 
 
-Ny name is Jackie Gan, a Software Engineer at JPMorgan Chase. 
+My name is Jackie Gan, a Software Engineer at JPMorgan Chase. 
 
 As a kid, I always enjoyed building legos, disassembling and reassembling parts to see the pattern in things. When I became a software engineer, I realized that we can reuse patterns to solve a similar business problem. 
 
